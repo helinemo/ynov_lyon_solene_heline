@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-test erreur
-=======
-coucou
->>>>>>> bf47490f64cabd7f9e047f2a203db38774173c65
+ajouter
